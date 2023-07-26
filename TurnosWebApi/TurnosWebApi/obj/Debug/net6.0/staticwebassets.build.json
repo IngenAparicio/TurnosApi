@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0RvTuyYXViLQHKhybDHfYd0xMqcSY7U53e6/ULSybfg=",
+  "Source": "TurnosWebApi",
+  "BasePath": "_content/TurnosWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
